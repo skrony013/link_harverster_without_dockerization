@@ -89,7 +89,7 @@ public function up() {
 
 
 
-```
+
 ## How to Install and Run the Project
 
 ```bash 
